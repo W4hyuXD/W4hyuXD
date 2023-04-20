@@ -6,7 +6,7 @@
 [![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Wahyu.eXDi/)](https://www.facebook.com/Wahyu.eXDi)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 ***Hello ngab, [WahyuXD]() is here***
-![Image](https://user-images.githubusercontent.com/131398263/233463202-b5e2f450-6595-4538-aef8-66a4ea8a44bb.jpg)
+![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
 
 ***Language***
 
