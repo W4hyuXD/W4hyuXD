@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://github.com/Zerotwo"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
-</p>
+![Image](https://user-images.githubusercontent.com/131398263/233487003-8d40235b-fa97-4c7e-b36a-d1679c8416e7.png)
+
+
 
 [![Github Badge](https://img.shields.io/badge/-WahyuuXD-white?style=flat&logo=Github&logoColor=black&link=https://github.com/WahyuuXD/)](https://github.com/WahyuuXD)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
 [![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Wahyu.eXDi/)](https://www.facebook.com/Wahyu.eXDi)
