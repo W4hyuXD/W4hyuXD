@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Don't+forget+to+also+follow+my+social+media+accounts)](https://git.io/typing-svg)
          ![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Wahyu.eXDi/)
-[![Instagram Badge](https://img.shields.io/badge/-MochWahyuDinAmbiaXD.-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/whyuuu.xd/)](https://www.instagram.com/whyuuu.x/)
+[![Instagram Badge](https://img.shields.io/badge/-MochWahyuDinAmbiaXD.-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/whyuuu.xd_/)](https://www.instagram.com/whyuuu.xd_/)
 
 
