@@ -3,7 +3,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-WahyuuXD-white?style=flat&logo=Github&logoColor=black&link=https://github.com/WahyuuXD/)](https://github.com/WahyuuXD)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
-[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Wahyu.eXDi/)](https://www.facebook.com/Wahyu.eXDi)
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Why.090/)](https://www.facebook.com/Why.090)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD)](https://git.io/typing-svg)
 ***Hello ngab, [WahyuXD]() is here***
 ![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
