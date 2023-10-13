@@ -1,8 +1,10 @@
 ![Image](https://user-images.githubusercontent.com/131398263/233487003-8d40235b-fa97-4c7e-b36a-d1679c8416e7.png)
 
 ## MY SOCIAL MEDIA
-[![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404) [![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B233506380966&text&app_absent=0)
+[![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B233506380966&text&app_absent=0)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD)](https://git.io/typing-svg)
 ***Hello ngab, [WahyuXD]() is here***
