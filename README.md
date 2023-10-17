@@ -6,7 +6,7 @@ print("Hello World!")
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B233506380966&text&app_absent=0)
 
 ***Hello ngab, [WahyuXD]() is here***
