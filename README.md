@@ -1,3 +1,6 @@
+```python
+print("Hello World!")
+```
 ![Image](https://user-images.githubusercontent.com/131398263/233487003-8d40235b-fa97-4c7e-b36a-d1679c8416e7.png)
 
 ## MY SOCIAL MEDIA
@@ -31,7 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
