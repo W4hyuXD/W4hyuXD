@@ -15,11 +15,6 @@ print("Hello World!")
 
 
 
-***Language***
-
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=wahyuuxd&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuuxd&theme=radical&title_color=8E2DE2&text_color=fff)
