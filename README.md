@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wahyu</h1>
 
 ```java
-public class Main {
-   public.static.void.main(String[]args) {
-    System.out.println("Hello, World!");
-   }
-}
+        public class Main {
+          public.static.void.main(String[]args) {
+            System.out.println("Hello, World!");
+          }
+        }
 ```
 
 ![IMG-20231018-WA0007.jpg](https://github.com/WahyuuXD/LogTheme/assets/131398263/c163eebb-6eed-4c14-8200-bc27f28230a0)
