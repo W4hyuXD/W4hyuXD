@@ -8,9 +8,9 @@ public class Main {
 }
 ```
 
-![IMG-20231018-WA0069.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/836c13f0-76ed-4a2a-b481-580b98da950f)
+![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
-![IMG-20231018-WA0068.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/7a5c4705-539b-4cd6-bab4-ee821e96c230)
+
 
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
