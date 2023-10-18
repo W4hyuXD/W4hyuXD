@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wahyu</h1>
 
-```js
+```java
 public class Main {
   public static void main(String[]args) {
     System.out.println("Hello, World!");
