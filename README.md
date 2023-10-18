@@ -8,7 +8,7 @@ public class Main {
 }
 ```
 
-![IMG-20231018-WA0007.jpg](https://github.com/WahyuuXD/LogTheme/assets/131398263/c163eebb-6eed-4c14-8200-bc27f28230a0)
+![Screenshot_2023-10-18-12-50-23-335_com.miui.gallery.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/0ea09e27-262f-4b9c-951b-172c7db7e3e7)
 
 
 ## MY SOCIAL MEDIA
