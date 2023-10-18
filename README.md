@@ -5,6 +5,11 @@ print("Hello World!")
 ```
 ![Image](https://user-images.githubusercontent.com/131398263/233487003-8d40235b-fa97-4c7e-b36a-d1679c8416e7.png)
 
+https://github.com/WahyuuXD/LogTheme/assets/131398263/4513ac3c-89e5-489a-b595-f9471aefe396
+
+![IMG-20231018-WA0007.jpg](https://github.com/WahyuuXD/LogTheme/assets/131398263/c163eebb-6eed-4c14-8200-bc27f28230a0)
+
+
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
