@@ -8,8 +8,9 @@ public class Main {
 }
 ```
 
-![Screenshot_2023-10-18-12-50-23-335_com.miui.gallery.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/0ea09e27-262f-4b9c-951b-172c7db7e3e7)
+![IMG-20231018-WA0069.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/836c13f0-76ed-4a2a-b481-580b98da950f)
 
+![IMG-20231018-WA0068.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/7a5c4705-539b-4cd6-bab4-ee821e96c230)
 
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
