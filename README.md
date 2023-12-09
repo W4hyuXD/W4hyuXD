@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm WahyuXD</h1>
 
 ```python
-def typing(xd):
-   for wahyu in xd + '\n':
-        sys.stdout.write(wahyu)
+def typing(s):
+   for c in s + '\n':
+        sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(0.1)
 typing("Hello Worl!d")
