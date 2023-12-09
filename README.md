@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm WahyuXD</h1>
 
 ```python
-for wahyu in xd + '\n':
+def typing(xd):
+   for wahyu in xd + '\n':
         sys.stdout.write(wahyu)
         sys.stdout.flush()
         time.sleep(0.1)
-run("Hello World")
+typing("Hello World")
 ```
 
 ![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
