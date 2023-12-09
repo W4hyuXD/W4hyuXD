@@ -6,8 +6,9 @@ def typing(xd):
         sys.stdout.write(wahyu)
         sys.stdout.flush()
         time.sleep(0.1)
-typing("Hello World")
+typing("Hello Worl!d")
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Hello+World!)](https://git.io/typing-svg)
 
 ![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
