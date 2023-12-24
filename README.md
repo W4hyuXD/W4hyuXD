@@ -18,13 +18,23 @@ typing("Hello Worl!d")
 [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B233506380966&text&app_absent=0)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wahyuuxd&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuuxd&theme=radical&title_color=8E2DE2&text_color=fff)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=blue"/>
+</p>
+
+<!--START_SECTION:waka-->
+<p align="center" height='130px'>
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="Top Languages"/>
+</p>
+
+---
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
