@@ -12,14 +12,14 @@ typing("Hello World!")
 
 ![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
-
-
-## MY SOCIAL MEDIA
-[![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
-
+<details open>
+   <summary><strong>My Social Media</strong></summary>
+   
+   [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
+   [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
+   [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
+   [![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
+</details>
 
 
 ---
@@ -28,15 +28,12 @@ typing("Hello World!")
   <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=blue"/>
 </p>
 
->***Language***
+***Language***
 
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
-  <br />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=monokai"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=monokai&langs_count=12"/><br />
   
 ---
