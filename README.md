@@ -33,7 +33,6 @@ typing("Hello World!")
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 
   <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
-  
   <br />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=monokai"/>
