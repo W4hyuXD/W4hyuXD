@@ -6,7 +6,7 @@ def typing(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(0.1)
-typing("Hello Worl!d")
+typing("Hello World!")
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Hello+World!)](https://git.io/typing-svg)
 
