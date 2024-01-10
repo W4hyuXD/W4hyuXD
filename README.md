@@ -32,9 +32,9 @@ typing("Hello World!")
 
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=tokyonight" alt="hossein heydari's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=tokyonight&langs_count=12"/><br />
   
 ---
 <p>
