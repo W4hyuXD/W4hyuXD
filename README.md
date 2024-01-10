@@ -37,6 +37,11 @@ typing("Hello World!")
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=monokai&langs_count=12"/><br />
   
 ---
+<p>
+   <a href="https://github.com/WayuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=monokai"></a>
+<a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=monokai"></a>
+<a href="https://github.com/WahyuuXD/Comments"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Comments&theme=monokai"></a>
+</p>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
