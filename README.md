@@ -13,17 +13,6 @@ typing("Hello World!")
 
 ![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
-<details open>
-   <summary><strong>My Social Media</strong></summary>
-   
-   [![Github](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github)](https://github.com/WahyuuXD)
-   [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://m.facebook.com/w4hyu.404)
-   [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-   [![WhatsApp](https://img.shields.io/badge/whatsapp-Get_in_touch-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
-</details>
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
@@ -37,12 +26,17 @@ typing("Hello World!")
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=dracula&langs_count=12"/><br />
   
----
-<p>
+## My Social Media
+[![Facebookm Badge](https://img.shields.io/badge/-Wahyuu-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/whyu.404/)](https://www.facebook.com/whyu.404)
+[![Instagram Badge](https://img.shields.io/badge/-why.404__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/why.404__/)](https://www.instagram.com/why.404_)   
+## Contact Me  
+[![WhatsAppm Badge](https://img.shields.io/badge/-GetInTouch_-ff?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!/)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
+<details open>
+   <summary><strong>Repository</strong></summary>
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=dracula"></a>
    <a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=dracula"></a>
    <a href="https://github.com/WahyuuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Commenter&theme=dracula"></a>
-</p>
+</details>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
