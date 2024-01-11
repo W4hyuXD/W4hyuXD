@@ -23,7 +23,7 @@ typing("Hello World!")
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
 
   <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=dracula" alt="hossein heydari's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=monokai"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=dracula"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=dracula&langs_count=12"/><br />
   
 ## My Social Media
