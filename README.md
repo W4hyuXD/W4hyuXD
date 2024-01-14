@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm WahyuXD</h1>
-<!--
+<!--<h1 align="center">Hi 👋, I'm WahyuXD</h1>
+
 ```python
 def typing(s):
    for c in s + '\n':
@@ -8,6 +8,8 @@ def typing(s):
         time.sleep(0.1)
 typing("Hello World!")
 ```-->
+<p align="center">
+   <img src="https://img.shields.io/badge/Profile-WahyuDin Ambia-blue?style=flat-square">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
