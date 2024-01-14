@@ -9,7 +9,7 @@ def typing(s):
 typing("Hello World!")
 ```-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Hello+World!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
 ![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
@@ -27,10 +27,12 @@ typing("Hello World!")
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=dracula&langs_count=12"/><br />
   
 ## My Social Media
-[![Facebookm Badge](https://img.shields.io/badge/-Wahyuu-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/whyu.404/)](https://www.facebook.com/whyu.404)
-[![Instagram Badge](https://img.shields.io/badge/-why.404__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/why.404__/)](https://www.instagram.com/why.404_)   
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/WahyuuXD)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
+[![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
+
 ## Contact Me  
-[![WhatsAppm Badge](https://img.shields.io/badge/-GetInTouch_-ff?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!/)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
 <details open>
    <summary><strong>Repository</strong></summary>
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=dracula"></a>
