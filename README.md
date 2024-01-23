@@ -23,11 +23,10 @@ typing("Hello World!")
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
-
-***Language***
-
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
-
+<p align="center"><i><b>I'm Studying</b></i></p>
+<p align="center">
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
+</p>
   <p align="center">
      <!--
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahyuuXD&theme=github_dark" width="300"/>
