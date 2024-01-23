@@ -7,7 +7,11 @@ def typing(s):
         sys.stdout.flush()
         time.sleep(0.1)
 typing("Hello World!")
-```-->
+```
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>-->
 <p align="center">
    <img src="https://img.shields.io/badge/Profile-WahyuDin Ambia-blue?style=flat-square">
 
@@ -24,9 +28,15 @@ typing("Hello World!")
 
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=dracula" alt="hossein heydari's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=dracula&langs_count=12"/><br />
+  <p align="center">
+     <!--
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahyuuXD&theme=github_dark" width="300"/>
+     -->
+     <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=github_dark" width="300"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuuXD&theme=github_dark" width="300"/><br />
+  </p>
   
 ## My Social Media
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/WahyuuXD)
@@ -37,9 +47,9 @@ typing("Hello World!")
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
 <details open>
    <summary><strong>Repository</strong></summary>
-   <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=dracula"></a>
-   <a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=dracula"></a>
-   <a href="https://github.com/WahyuuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Commenter&theme=dracula"></a>
+   <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
+   <a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=github_dark"></a>
+   <a href="https://github.com/WahyuuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Commenter&theme=github_dark"></a>
 </details>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
