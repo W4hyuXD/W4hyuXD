@@ -37,13 +37,15 @@ typing("Hello World!")
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuuXD&theme=github_dark" width="300"/><br />
   </p>
   
-## My Social Media
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/WahyuuXD)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
-[![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
+  <p align="center"><b><i>My Social Media</i></b></p>
 
-## Contact Me  
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
+   [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/WahyuuXD)
+   [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
+   [![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
+
+<p align="center"><b><i>Contact Me</i></b></p>
+
+   [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
 <details open>
    <summary><strong>Repository</strong></summary>
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
