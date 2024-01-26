@@ -40,7 +40,8 @@ typing("Hello World!")
   <p align="center"><b>Favorite language</b></p>
    <p align="center">
       <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
-  <p align="center"><b>My Social Media</b></p>
+
+<p align="center"><b>My Social Media</b></p>
 <p align="center">
 &nbsp; <a href="https://github.com/WahyuuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
 &nbsp; <a href="m.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white" /></a>
@@ -53,6 +54,7 @@ typing("Hello World!")
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
    <a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=github_dark"></a>
    <a href="https://github.com/WahyuuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Commenter&theme=github_dark"></a>
+   <a href="https://github.com/WahyuuXD/multiTools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=multiTools&theme=github_dark"></a>
 </details>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
