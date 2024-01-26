@@ -38,8 +38,8 @@ typing("Hello World!")
   </p>
   
   <p align="center"><b><i>My Social Media</i></b></p>
-
-   [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/WahyuuXD)
+    <a href="https://github.com/WahyuuXD"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social"/></a>
+   
    [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
    [![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
 
