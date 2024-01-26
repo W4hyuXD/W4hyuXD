@@ -42,14 +42,14 @@ typing("Hello World!")
       <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
   <p align="center"><b>My Social Media</b></p>
   <p align="center">
-     <a href="https://github.com/WahyuuXD"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social"/></a></p>
-     <p align="center">
-        [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
-        [![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
-</p>
-<p align="center"><b>Contact Me</b></p>
-
-   [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
+     <a href="https://github.com/WahyuuXD"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social"/></a><a href="m.facebook.com/whyu.404">
+        <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white"></a>
+        <a href="www.instagram.com/why.404_">
+           <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white"></a>
+   <p align="center"><b>Contact me</b></p>
+   <p align="center">
+      <a href="https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!">
+   <img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white"></a></p>
 <details open>
    <summary><strong>Repository</strong></summary>
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
