@@ -23,9 +23,10 @@ typing("Hello World!")
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
-<p align="center"><i><b>I'm Studying</b></i></p>
+<p align="center"><b>I'm Studying</b></p>
 <p align="center">
-   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
 </p>
   <p align="center">
      <!--
@@ -36,14 +37,16 @@ typing("Hello World!")
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuuXD&theme=github_dark" width="300"/><br />
   </p>
-  
-  <p align="center"><b><i>My Social Media</i></b></p>
+  <p align="center"><b>Favorite language</b></p>
+   <p align="center">
+      <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
+  <p align="center"><b>My Social Media</b></p>
     <a href="https://github.com/WahyuuXD"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social"/></a>
    
    [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/whyu.404)
    [![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white)](https://www.instagram.com/why.404_)
 
-<p align="center"><b><i>Contact Me</i></b></p>
+<p align="center"><b>Contact Me</b></p>
 
    [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!)
 <details open>
