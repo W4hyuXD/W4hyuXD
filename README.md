@@ -44,8 +44,8 @@ typing("Hello World!")
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
 &nbsp; <a href="https://github.com/WahyuuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
-&nbsp; <a href="m.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white" /></a>
-&nbsp; <a href="www.instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white"/></a>
+&nbsp; <a href="https://m.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white" /></a>
+&nbsp; <a href="https://www.instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white"/></a>
 <p align="center"><b>Contact me</b></p>
 <p align="center">
 &nbsp; <a href="https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" /></a></p>
