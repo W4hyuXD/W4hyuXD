@@ -33,7 +33,7 @@ typing("Hello World!")
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahyuuXD&theme=github_dark" width="300"/>
      -->
      <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=github_dark" width="300"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=one_dark_pro" width="300"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuuXD&theme=github_dark" width="300"/><br />
   </p>
