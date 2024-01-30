@@ -44,24 +44,25 @@ typing("Hello World!")
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
 &nbsp; <a href="https://github.com/WahyuuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
-&nbsp; <a href="https://m.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white" /></a>
-&nbsp; <a href="https://www.instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=&labelColor=white"/></a>
+&nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
+&nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>
    
-
    <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
 <center>
 <b>
-• MY SOCIAL MEDIA :
+Contact Me
 </b>
-<a href="https://Instagram.com/why.404_"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://github.com/WahyuuXD/WahyuuXD/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/whyu.404"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a>
+___________
+<a href="https://Instagram.com/why.404_"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="45" height="45"></a> 
+<a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" alt="alt text" width="60" height="60"></a>
+<a href="https://www.facebook.com/whyu.404"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="45" height="45"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp; 
 
-
+<!--
 <p align="center"><b>Contact me</b></p>
 <p align="center">
 &nbsp; <a href="https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" /></a></p>
+--->
 <details open>
    <summary><strong>Repository</strong></summary>
    <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
