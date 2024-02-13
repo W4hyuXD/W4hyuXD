@@ -47,7 +47,7 @@ typing("Hello World!")
 &nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
 &nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>
    
-   <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
+ <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">-->
 <center>
 <b>
 Contact Me
