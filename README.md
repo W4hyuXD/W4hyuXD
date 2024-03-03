@@ -55,7 +55,7 @@ Contact Me
 ___________
 <a href="https://Instagram.com/why.404_"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="45" height="45"></a> 
 <a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" alt="alt text" width="60" height="60"></a>
-<a href="https://www.facebook.com/whyu.404"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="45" height="45"></a>
+<a href="https://www.facebook.com/wahyu.567"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="45" height="45"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp; 
 
 <!--
