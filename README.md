@@ -43,7 +43,7 @@ typing("Hello World!")
 
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
-&nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
+&nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/W4hyuXD?label=followers&style=social" /></a>
 &nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
 &nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>
    
