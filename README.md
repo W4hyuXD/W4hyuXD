@@ -17,11 +17,11 @@ typing("Hello World!")
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
-![IMG_20231018_172502.jpg](https://github.com/WahyuuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
+![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahyuuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
+  <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 <p align="center"><b>I'm Studying</b></p>
 <p align="center">
@@ -30,12 +30,12 @@ typing("Hello World!")
 </p>
   <p align="center">
      <!--
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahyuuXD&theme=github_dark" width="300"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=W4hyuXD&theme=github_dark" width="300"/>
      -->
-     <img src="https://github-readme-stats.vercel.app/api?username=WahyuuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuuXD&theme=one_dark_pro" width="300"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahyuuXD&theme=github_dark" width="300"/><br />
+     <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />
   </p>
   <p align="center"><b>Favorite language</b></p>
    <p align="center">
@@ -43,7 +43,7 @@ typing("Hello World!")
 
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
-&nbsp; <a href="https://github.com/WahyuuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
+&nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/WahyuuXD?label=followers&style=social" /></a>
 &nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
 &nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>
    
@@ -65,9 +65,9 @@ ___________
 --->
 <details open>
    <summary><strong>Repository</strong></summary>
-   <a href="https://github.com/WahyuuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=FaceBF&theme=github_dark"></a>
-   <a href="https://github.com/WahyuuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=unliShare&theme=github_dark"></a>
-   <a href="https://github.com/WahyuuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=Commenter&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=Commenter&theme=github_dark"></a>
   <!-- <a href="https://github.com/WahyuuXD/multiTools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=multiTools&theme=github_dark"></a>-->
 </details>
 <!--
