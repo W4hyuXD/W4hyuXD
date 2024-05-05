@@ -60,15 +60,15 @@ if __name__=='__main__':
    
  <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">-->
 <center>
-<b>
-Contact Me
-</b>
-___________
+<details open>
+   <summary><strong>Contact Me</strong></summary>
+<p align="center">
 <a href="https://Instagram.com/why.404_"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="45" height="45"></a> 
 <a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" alt="alt text" width="60" height="60"></a>
 <a href="https://www.facebook.com/wahyu.567"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="45" height="45"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp; 
-
+</p>
+</details>
 <!--
 <p align="center"><b>Contact me</b></p>
 <p align="center">
