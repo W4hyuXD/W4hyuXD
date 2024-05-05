@@ -17,8 +17,19 @@ typing("Hello World!")
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
+<!--
 ![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
+-->
 
+```python
+def intro():
+   name = "WahyuDin Ambia"
+   age = "17"
+   print("Hello guys, my name is {}, I am {} years old.".format(name,age))
+
+if __name__=='__main__':
+   intro()
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
