@@ -20,8 +20,9 @@ typing("Hello World!")
 <!--
 ![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 -->
-
 ```python
+#! usr/bin/env python3
+
 def intro():
    name = "WahyuDin Ambia"
    age = "17"
