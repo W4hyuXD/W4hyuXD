@@ -14,6 +14,9 @@ typing("Hello World!")
 </p>-->
 <p align="center">
    <img src="https://img.shields.io/badge/Profile-WahyuDin Ambia-blue?style=flat-square">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
@@ -32,20 +35,19 @@ if __name__=='__main__':
    intro()
 ```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
-</p>
+<!--
 <p align="center"><b>I'm Studying</b></p>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
 </p>
+--->
   <p align="center">
      <!--
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=W4hyuXD&theme=github_dark" width="300"/>
-     -->
      <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>
+     --->
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />
   </p>
@@ -57,9 +59,12 @@ if __name__=='__main__':
 <p align="center">
 &nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/W4hyuXD?label=followers&style=social" /></a>
 &nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
-&nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>
+&nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>                          
+&nbsp; <a href="https://www.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white"/></a>
+&nbsp; <a href="https://Instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=Instagram&labelColor=white"/></a>
+&nbsp; <a href="https://wa.me/233506380966?text=Asalamualaikum+bang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Whatsapp-green?logo=Whatsapp&logoColor=green&labelColor=white"/></a>
    
- <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">-->
+ <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
 <center>
 <details open>
    <summary><strong>Contact Me</strong></summary>
@@ -69,6 +74,7 @@ if __name__=='__main__':
 <a href="https://www.facebook.com/wahyu.567"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="45" height="45"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp; 
 </p>
+--->
 </details>
 <!--
 <p align="center"><b>Contact me</b></p>
