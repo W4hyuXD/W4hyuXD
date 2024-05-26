@@ -31,7 +31,7 @@ def intro():
 if __name__=='__main__':
    intro()
 ```
-![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
+![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
 <!--
 <p align="center"><b>I'm Studying</b></p>
 <p align="center">
