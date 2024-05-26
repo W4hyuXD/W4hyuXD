@@ -20,9 +20,6 @@ typing("Hello World!")
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
-<!--
-![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
--->
 ```python
 #! usr/bin/env python3
 
@@ -34,7 +31,7 @@ def intro():
 if __name__=='__main__':
    intro()
 ```
-
+![IMG_20231018_172502.jpg](https://github.com/W4hyuXD/unliShare/assets/131398263/96350797-f659-4789-a7d0-e85ad6f71e84)
 <!--
 <p align="center"><b>I'm Studying</b></p>
 <p align="center">
@@ -43,11 +40,11 @@ if __name__=='__main__':
 </p>
 --->
   <p align="center">
-     <!--
+     <!---
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=W4hyuXD&theme=github_dark" width="300"/>
+     --->
      <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>
-     --->
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />
   </p>
