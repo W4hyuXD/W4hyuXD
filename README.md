@@ -23,18 +23,25 @@ typing("Hello World!")
 ```python
 #! usr/bin/env python3
 
-class Person:
+import os
+from rich import print as cetak
+
+class Introduction:
     def __init__(self, name, age):
-        self.name = "WahyuDin Ambia"
-        self.age = "17"
+        self.name = name
+        self.age = age
 
-    def introduce(self):
-        return f"Hello Guys, my name is {self.name} I am {self.age} years old"
-        wahyu = Person("WahyuDin Ambia", 17)
-        print(wahyu.introduce())
+    def intro(self):
+        cetak(f'Hallo Guys, My name is {self.name} I am {self.age} Year old.')
+        exit()
 
-if __name__=='__main__':
-   Person()
+Person = Introduction("WahyuDin AmbiaXD", 17)
+
+if __name__=="__main__":
+  try:
+    os.system('clear')
+  except:pass
+  Person.intro()
 ```
 ![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
 <!--
