@@ -23,13 +23,18 @@ typing("Hello World!")
 ```python
 #! usr/bin/env python3
 
-def intro():
-   name = "WahyuDin Ambia"
-   age = "17"
-   print("Hello guys, my name is {}, I am {} years old.".format(name,age))
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def introduce(self):
+        return f"Hello Guys, my name is {self.name} I am {self.age} years old"
+        wahyu = Person("wahyuXD", 17)
+        print(wahyu.introduce())
 
 if __name__=='__main__':
-   intro()
+   Person()
 ```
 ![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
 <!--
