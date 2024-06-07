@@ -25,12 +25,12 @@ typing("Hello World!")
 
 class Person:
     def __init__(self, name, age):
-        self.name = name
-        self.age = age
+        self.name = "WahyuDin Ambia"
+        self.age = "17"
 
     def introduce(self):
         return f"Hello Guys, my name is {self.name} I am {self.age} years old"
-        wahyu = Person("wahyuXD", 17)
+        wahyu = Person("WahyuDin Ambia", 17)
         print(wahyu.introduce())
 
 if __name__=='__main__':
