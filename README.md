@@ -19,6 +19,7 @@ typing("Hello World!")
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
+
 <p>
 ```python
 
@@ -46,6 +47,7 @@ if __name__=="__main__":
   Person.intro()
 ``` width="200"
 </p>
+
 ![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
 <!--
 <p align="center"><b>I'm Studying</b></p>
