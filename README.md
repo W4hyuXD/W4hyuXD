@@ -44,7 +44,7 @@ if __name__=="__main__":
     os.system('clear')
   except:pass
   Person.intro()
-``` width="200"
+```
 ![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
 <!--
 <p align="center"><b>I'm Studying</b></p>
