@@ -20,7 +20,7 @@ typing("Hello World!")
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 
-```python
+```python width="200"
 #! usr/bin/env python3
 
 import os
