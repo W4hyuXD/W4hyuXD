@@ -21,18 +21,24 @@ typing("Hello World!")
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 <p>
 ```python
-#! usr/bin/env python3
-import os
-from rich import print as cetak
-class Introduction:
+
+#! usr/bin/env python3   
+
+import os   
+from rich import print as cetak   
+
+class Introduction:   
+
     def __init__(self, name, age):
         self.name = name
         self.age = age
 
     def intro(self):
         cetak(f'Hallo Guys, My name is {self.name} I am {self.age} Year old.')
-        exit()
-Person = Introduction("WahyuDin AmbiaXD", 17)
+        exit()    
+
+Person = Introduction("WahyuDin AmbiaXD", 17)   
+
 if __name__=="__main__":
   try:
     os.system('clear')
