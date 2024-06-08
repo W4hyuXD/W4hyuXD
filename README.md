@@ -93,12 +93,12 @@ if __name__=="__main__":
 <details open>
    <summary><strong>Repository</strong></summary>
    <p align="center">
-   <a href="https://github.com/W4hyuXD/FaceBF"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
-   <a href="https://github.com/W4hyuXD/unliShare"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
-   <a href="https://github.com/W4hyuXD/Commenter"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=Commenter&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/FaceBF"><img width="250" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/unliShare"><img width="250" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/Commenter"><img width="250" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=Commenter&theme=github_dark"width="250"></a>
   <!-- <a href="https://github.com/WahyuuXD/multiTools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=multiTools&theme=github_dark"></a>-->
 </details>
-<img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width=250 /></p>
+<img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
