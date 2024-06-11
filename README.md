@@ -28,7 +28,7 @@ class Introduction:
         self.age = age
 
     def intro(self):
-        cetak(f'Hallo Guys, My name is {self.name} I am {self.age} Year old.')
+        cetak(f'Hallo Guys, My name is {self.name} I am {self.age} Years old.')
         exit()    
 
 Person = Introduction("WahyuDin AmbiaXD", 17)   
