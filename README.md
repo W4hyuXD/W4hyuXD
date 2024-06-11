@@ -88,8 +88,8 @@ if __name__=="__main__":
 <details open>
    <summary><strong>Repository</strong></summary>
    <p align="center">
-   <a href="https://github.com/W4hyuXD/FaceBF"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
-   <a href="https://github.com/W4hyuXD/unliShare"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/FaceBF"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
+   <a href="https://github.com/W4hyuXD/unliShare"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
    <a href="https://github.com/W4hyuXD/Commenter"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=Commenter&theme=github_dark"width="250"></a>
   <!-- <a href="https://github.com/WahyuuXD/multiTools"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=multiTools&theme=github_dark"></a>-->
 </details>
