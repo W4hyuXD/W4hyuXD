@@ -60,9 +60,13 @@ if __name__=="__main__":
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
 &nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/W4hyuXD?label=followers&style=social" /></a>
+
 &nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a>
+
 &nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>                          
+
 &nbsp; <a href="https://www.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white"/></a>
+
 &nbsp; <a href="https://Instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=Instagram&labelColor=white"/></a>
 &nbsp; <a href="https://wa.me/233506380966?text=Asalamualaikum+bang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Whatsapp-green?logo=Whatsapp&logoColor=green&labelColor=white"/></a>
    
