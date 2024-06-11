@@ -1,14 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm WahyuXD</h1>
 
-```python
-def typing(s):
-   for c in s + '\n':
-        sys.stdout.write(c)
-        sys.stdout.flush()
-        time.sleep(0.1)
-typing("Hello World!")
-```
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>-->
@@ -17,8 +8,9 @@ typing("Hello World!")
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
-
+<!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
+--->
 
 ```python
 
