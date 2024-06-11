@@ -11,6 +11,8 @@
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 --->
+  <p align="center">
+      <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
 
 ```python
 
@@ -53,10 +55,6 @@ if __name__=="__main__":
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="250"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="250"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="250"/><br /></p>
-       <p align="center"><b>Favorite language</b></p>
-   <p align="center">
-      <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
-
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
 &nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/W4hyuXD?label=followers&style=social" /></a>
