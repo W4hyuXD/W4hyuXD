@@ -37,7 +37,7 @@ if __name__=="__main__":
   except:pass
   Person.intro()
 ```
-![276211679-96350797-f659-4789-a7d0-e85ad6f71e84-removebg](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/f10b9440-5ea6-4e36-a71a-4ce7f4e79a11)
+![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
 <!--
 <p align="center"><b>I'm Studying</b></p>
 <p align="center">
