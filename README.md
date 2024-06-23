@@ -85,7 +85,7 @@ if __name__=="__main__":
 &nbsp; <a href="https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" /></a></p>
 --->
 <details open>
-   <summary><strong>Repository</strong></summary>
+   <summary><strong>Favorite Repository</strong></summary>
    <p align="center">
    <a href="https://github.com/W4hyuXD/FaceBF"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
    <a href="https://github.com/W4hyuXD/unliShare"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
