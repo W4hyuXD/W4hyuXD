@@ -19,7 +19,7 @@
 #! usr/bin/env python3   
 
 import os   
-from rich import print as cetak   
+from rich import print
 
 class Introduction:   
     def __init__(self, name, age):
@@ -27,7 +27,7 @@ class Introduction:
         self.age = age
 
     def intro(self):
-        cetak(f'Hello Guys, My name is {self.name} I am {self.age} Years old.')
+        print(f'Hello Guys, My name is {self.name} I am {self.age} Years old.')
         exit()    
 
 Person = Introduction("WahyuDin AmbiaXD", 17)   
