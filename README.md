@@ -4,16 +4,13 @@
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>-->
 <p align="center">
-   <img src="https://img.shields.io/badge/Profile-WahyuDin Ambia-blue?style=flat-square">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
+   <img src="https://img.shields.io/badge/Profile-WahyuXD-ff0000?style=flat-square&justify=center">            <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>             <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 --->
   <p align="center">
-      <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>
-
+    
 ```python
 
 #! usr/bin/env python3   
@@ -25,16 +22,13 @@ class Introduction:
     def __init__(self, name, age):
         self.name = name
         self.age = age
-
     def intro(self):
         print(f'Hello Guys, My name is {self.name} I am {self.age} Years old.')
-        exit()    
-
-Person = Introduction("WahyuDin AmbiaXD", 17)   
+        exit()
+Person = Introduction("WahyuDin AmbiaXD", 17)
 
 if __name__=="__main__":
-  try:
-    os.system('clear')
+  try:os.system('clear')
   except:pass
   Person.intro()
 ```
