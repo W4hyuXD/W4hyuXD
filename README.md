@@ -65,14 +65,7 @@ if __name__=="__main__":
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-CHAT-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/233506380966?text=Asalamualaikum+bang)
 </details>
 
-<details open>
-   <summary><strong>Favorite Repository</strong></summary>
-   <p align="center">
-   <a href="https://github.com/W4hyuXD/FaceBF"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=FaceBF&theme=github_dark"></a>
-   <a href="https://github.com/W4hyuXD/unliShare"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=unliShare&theme=github_dark"></a>
-   <a href="https://github.com/W4hyuXD/Commenter"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=W4hyuXD&repo=Commenter&theme=github_dark"width="250"></a>
-  <!-- <a href="https://github.com/WahyuuXD/multiTools"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WahyuuXD&repo=multiTools&theme=github_dark"></a>-->
-</details>
+
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
 <!--
 **WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
