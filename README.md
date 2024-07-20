@@ -61,18 +61,9 @@ if __name__=="__main__":
 [![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
 
 <p align="center">
-&nbsp; <a href="https://Instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=Instagram&labelColor=white"/></a>
 &nbsp; <a href="https://wa.me/233506380966?text=Asalamualaikum+bang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Whatsapp-green?logo=Whatsapp&logoColor=green&labelColor=white"/></a>
 </p>
-   
- <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
-<center>
-<details open>
-   <summary><strong>CONTACT ME</strong></summary>
-<p align="center">
-<a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" alt="alt text" width="60" height="60"></a>
-</p>
---->
+  
 </details>
 
 <details open>
