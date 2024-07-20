@@ -56,11 +56,12 @@ if __name__=="__main__":
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="250"/><br /></p>
 <p align="center"><b>My Social Media</b></p>
 <p align="center">
-&nbsp; <a href="https://github.com/W4hyuXD" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/W4hyuXD?label=followers&style=social" /></a>
-&nbsp; <a href="https://www.youtube.com/whyuxd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white" /></a></p>
-<p align="center">
-&nbsp; <a href="https://www.tiktok.com/@wahyu403_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tiktok-black?logo=Tiktok&logoColor=black&labelColor=white"/></a>                          
-&nbsp; <a href="https://www.facebook.com/whyu.404" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white"/></a>
+## MY SOCIAL MEDIA
+
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
 </p>
 <p align="center">
 &nbsp; <a href="https://Instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=Instagram&labelColor=white"/></a>
