@@ -1,10 +1,9 @@
-<!--<h1 align="center">Hi 👋, I'm WahyuXD</h1>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</p>-->
+<div align="center" style="display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+WahyuXD!" alt="Typing SVG" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
+</div>
 <p align="center">
-   <img src="https://img.shields.io/badge/Profile-WahyuXD-ff0000?style=flat-square&justify=center">            <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/></a>             <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
+   <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
