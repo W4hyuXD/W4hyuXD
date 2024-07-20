@@ -54,14 +54,8 @@ if __name__=="__main__":
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="250"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="250"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="250"/><br /></p>
-<p align="center"><b>My Social Media</b></p>
-<p align="center">
-## MY SOCIAL MEDIA
-
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-[![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
+<p align="center"><b>SOCIAL MEDIA</b></p>
+<p align="center">[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)[![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
 </p>
 <p align="center">
 &nbsp; <a href="https://Instagram.com/why.404_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=Instagram&labelColor=white"/></a>
@@ -71,7 +65,7 @@ if __name__=="__main__":
  <!--  <img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
 <center>
 <details open>
-   <summary><strong>Contact Me</strong></summary>
+   <summary><strong>CONTACT ME</strong></summary>
 <p align="center">
 <a href="https://Instagram.com/why.404_"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="45" height="45"></a> 
 <a href="https://wa.me/233506380966?text=Asalamualaikum+bang"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" alt="alt text" width="60" height="60"></a>
