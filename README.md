@@ -55,6 +55,7 @@ if __name__=="__main__":
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="250"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="250"/><br /></p>
 <p align="center"><b>SOCIAL MEDIA</b></p>
+
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
 [![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
