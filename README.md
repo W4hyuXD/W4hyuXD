@@ -60,10 +60,9 @@ if __name__=="__main__":
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
 [![Tiktok](https://img.shields.io/badge/Tiktok-Follow-white?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
 
-<p align="center">
-&nbsp; <a href="https://wa.me/233506380966?text=Asalamualaikum+bang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Whatsapp-green?logo=Whatsapp&logoColor=green&labelColor=white"/></a>
-</p>
-  
+<p align="center"><b>CONTACT ME</b></p>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-CHAT-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/233506380966?text=Asalamualaikum+bang)
 </details>
 
 <details open>
