@@ -48,7 +48,6 @@ if __name__=="__main__":
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java" /><br>Java
     </td>
-    </td>
   </tr>
 </table>
 
