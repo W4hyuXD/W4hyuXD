@@ -57,7 +57,7 @@ if __name__=="__main__":
      <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>
     
-<-!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />--->
 </p>
 <p><b>SOCIAL MEDIA</b></p>
