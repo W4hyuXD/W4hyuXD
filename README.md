@@ -40,15 +40,8 @@ if __name__=="__main__":
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" /><br>Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
+        <img src="https://techstack-generator.vercel.app/html5-icon.svg" width="48" height="48" alt="html5" /><br>HTML-5
     </td>
   </tr>
 </table>
