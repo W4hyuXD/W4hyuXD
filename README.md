@@ -31,6 +31,70 @@ if __name__=="__main__":
   except:pass
   Person.intro()
 ```
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Golang" /><br>Golang
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" /><br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GQL" /><br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
+    </td>
+  </tr>
+</table>
+
 ![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
 <!--
 <p align="center"><b>I'm Studying</b></p>
@@ -57,20 +121,18 @@ if __name__=="__main__":
 
 
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
-<!--
-**WahyuuXD/WahyuuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### Let's See About Me: 
+
+- 🏃 I’m currently working on **Tools for Facebook Bots**
+- 🧑‍💻 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Nothing**
+- 🤔 I’m looking for help with **Python**
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
