@@ -41,7 +41,7 @@ if __name__=="__main__":
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" /><br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html5-icon.svg" width="48" height="48" alt="html5" /><br>HTML-5
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" width="48" height="48" alt="html" /><br>HTML
     </td>
   </tr>
 </table>
