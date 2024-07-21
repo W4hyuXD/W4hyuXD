@@ -52,18 +52,12 @@ if __name__=="__main__":
 </table>
 
 ![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
-<!--
-<p align="center"><b>I'm Studying</b></p>
-<p align="center">
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
-</p>
---->
+
   <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br /></p>
+    <-!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />---></p>
 <p><b>SOCIAL MEDIA</b></p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
