@@ -75,17 +75,9 @@ if __name__=="__main__":
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
 
 
-### Let's See About Me: 
-
-- 🏃 I’m currently working on **Tools for Facebook Bots**
-- 🧑‍💻 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Nothing**
-- 🤔 I’m looking for help with **Python**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
