@@ -51,7 +51,7 @@ if __name__=="__main__":
   </tr>
 </table>
 
-![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
+<!--![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
 
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
