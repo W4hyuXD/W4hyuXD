@@ -38,13 +38,13 @@ if __name__=="__main__":
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" /><br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="49" height="48" alt="python" /><br>Python
     </td>
     <td align="center" width="91">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" /><br>JavaScript
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" /><br>MySQL
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="49" height="48" alt="mysql" /><br>MySQL
     <td align="center" width="91">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java" /><br>Java
     </td>
