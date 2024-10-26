@@ -67,7 +67,7 @@ if __name__=="__main__":
 
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-[![Tiktok](https://img.shields.io/badge/Tiktok-Follow-black?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/whyu403_)
+
 
 <p><b>CONTACT ME</b></p>
 
