@@ -33,6 +33,7 @@ if __name__=="__main__":
 ```
 
 <table align="center">
+<p align="center">
   <tr>
     <td align="center" width="92">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
@@ -44,6 +45,7 @@ if __name__=="__main__":
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" /><br>JavaScript
     </td>
   </tr>
+</p>
 </table>
 
 <!--![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
