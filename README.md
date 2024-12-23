@@ -12,24 +12,9 @@
     
 ```python
 
-#! usr/bin/python3   
+#!usr/bin/env python3
 
-import os   
-from rich import print
-
-class Introduction:   
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-    def intro(self):
-        print(f'Hello Guys, My name is {self.name} I am {self.age} Years old.')
-        exit()
-Person = Introduction("WahyuDin Ambia", 17)
-
-if __name__=="__main__":
-  try:os.system('clear')
-  except:pass
-  Person.intro()
+print("Hello, World!")
 ```
 
 <table align="center">
