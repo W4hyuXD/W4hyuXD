@@ -21,13 +21,7 @@ print("Hello, World!")
 <p align="center">
   <tr>
     <td align="center" width="92">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" width="92">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="49" height="48" alt="python" /><br>Python
-    </td>
-    <td align="center" width="91">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" /><br>JavaScript
     </td>
   </tr>
 </p>
