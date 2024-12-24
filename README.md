@@ -8,9 +8,9 @@
 
 ## XNXCODE [2021]() TOGETHER
   <p align="center">
-<img src="https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb" width="300">
+<img src="https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb" width="260">
 
-<p align="center"><a href="https://github.com/W4hyuXD"><img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="260">
+<p align="center"><a href="https://github.com/W4hyuXD"><img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="265">
 </a>
 </p>
 
