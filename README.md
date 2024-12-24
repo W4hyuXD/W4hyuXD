@@ -19,7 +19,8 @@
     </td>
   </tr>
 </p>
-</table>[![Proyek Baru 16[67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
+</table>[![Proyek Baru 16[67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
+-->
 
 <p align="center>
   <a href="https://github.com/W4hyuXD">
