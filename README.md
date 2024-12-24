@@ -48,7 +48,7 @@
 
 <p><b>CONTACT ME</b></p>
 <p align="center">
-  <img src="img/icons8-whatsapp-400.png>
+  <img src="https://github.com/W4hyuXD/W4hyuXD/blob/main/img/icons8-facebook-400.png />
 
 
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
