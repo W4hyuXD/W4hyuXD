@@ -22,7 +22,7 @@
 </table>[![Proyek Baru 16[67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
 -->
 
-<p align="center>
+<p align="center width="30" height="35">
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
@@ -33,7 +33,7 @@
 
 ## 🌐 Connect with Me
 
-Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
+Feel free to contact me if you want to collaborate on a project, or just chat!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/why.404_)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/233506380966)
