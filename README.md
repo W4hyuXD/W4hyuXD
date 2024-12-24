@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.flaticon.com/free-icon/instagram_3938052?term=instagram&related_id=3938052">https://www.instagram.com/why.404_
+[![instagram](https://www.flaticon.com/free-icon/instagram_3938052?term=instagram&related_id=3938052)(https://www.instagram.com/why.404_)
 
 
 
