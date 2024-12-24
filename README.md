@@ -9,13 +9,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=font=Koulen&size=25&color=light&center=true&width=600&vCenter=true&lines=Hello,+World!)
 --->
   <p align="center">
-    
-```python
 
-#!usr/bin/env python3
-
-print("Hello, World!")
-```
+![IMG-20241223-WA0004](https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb)
 
 <table align="center">
 <p align="center">
