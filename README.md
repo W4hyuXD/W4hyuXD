@@ -15,8 +15,17 @@
 <table align="center">
 <p align="center">
   <tr>
-    <td align="center" width="92">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="49" height="48" alt="python" /><br>Python
+    <td align="center" width="30">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
+    </td>
+    <td align="center" width="30">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
+    </td>
+    <td align="center" width="30">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
+    </td>
+    <td align="center" width="30">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
     </td>
   </tr>
 </p>
