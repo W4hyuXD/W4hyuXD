@@ -19,7 +19,7 @@
 Feel free to contact me if you want to collaborate on a project, or just chat!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/why.404_)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/233506380966)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/233506380966)
 [![Facebook](https://img.shields.io/badge/-Facebook-%23blue?style=flat&logo=facebook&logoColor=white)](https://m.facebook.com/whyu.404)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@why.404_)
 
