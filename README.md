@@ -15,6 +15,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
   </p>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&theme=radical&title_color=8E2DE2&text_color=fff)&theme=monokai&langs_count=12" width="350" /><br />
 </p>
 
