@@ -5,7 +5,7 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
-<p align="center">
+
 ## XNXCODE [2021](https://github.com/XnxcodeTeam) TOGETHER
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb" width="260">
