@@ -12,26 +12,18 @@
 
 ![IMG-20241223-WA0004](https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb)
 
+<!--
 <table align="center">
 <p align="center">
   <tr>
     <td align="center" width="30">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
     </td>
-    <td align="center" width="30">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
-    </td>
-    <td align="center" width="30">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
-    </td>
-    <td align="center" width="30">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="29" height="28" alt="python" /><br>Python
-    </td>
   </tr>
 </p>
 </table>
+[![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
 
-<!--![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
 <p align="center>
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
