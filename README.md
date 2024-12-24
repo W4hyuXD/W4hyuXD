@@ -22,13 +22,13 @@
 </table>[![Proyek Baru 16[67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)
 -->
 
-<p align="center width="80" height="80">
+<p align="center>
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
   </p>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12" width="300"/><br />
 </p>
 
 ## 🌐 Connect with Me
