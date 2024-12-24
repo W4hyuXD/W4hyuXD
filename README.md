@@ -47,9 +47,8 @@
 </p>
 
 <p><b>CONTACT ME</b></p>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-CHAT-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/233506380966?text=Asalamualaikum+bang)
-</details>
+<p align="center">
+  <img src="https://github.com/W4hyuXD/W4hyuXD/blob/main/img/icons8-whatsapp-400.png>
 
 
 <img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
@@ -59,6 +58,4 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
-<img src="https://icons8.com/icon/hFoVFpm6gl9A/instagram">
 
