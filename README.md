@@ -12,11 +12,11 @@
 
 <p align="center>
   <a href="https://github.com/W4hyuXD">
-    <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="150">
 </a>
-  </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=15" width="350"/><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=15" width="150"/><br />
+</p>
 
 ## 🌐 Connect with Me
 
