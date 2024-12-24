@@ -36,6 +36,7 @@
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12"/><br />
   <!--<p align="center">
