@@ -8,7 +8,7 @@
 
   <p align="center">
 
-![IMG-20241223-WA0004](https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb)
+<img src="https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb" width="100">
 
 <p align="center>
   <a href="https://github.com/W4hyuXD">
