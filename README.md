@@ -40,6 +40,7 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
+
 ## 🌐 Connect with Me
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
