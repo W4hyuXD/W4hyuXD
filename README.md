@@ -41,10 +41,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 <p><b>SOCIAL MEDIA</b></p>
-
+<p align="center">
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyxd.567)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/whyu.404)[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/why.404_)
-
+</p>
 
 <p><b>CONTACT ME</b></p>
 
