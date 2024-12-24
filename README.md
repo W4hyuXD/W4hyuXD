@@ -32,19 +32,14 @@
 </table>
 
 <!--![Proyek Baru 16 [67ED29D].png](https://github.com/W4hyuXD/W4hyuXD/assets/131398263/967d35b3-eb0f-490c-b1f8-9137ad3e2014)-->
-
+<p align="center>
   <a href="https://github.com/W4hyuXD">
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12 width=300"/><br />
-  <!--<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=W4hyuXD&show_icons=true&include_all_commits=true&theme=github_dark" alt="WahyuDin Ambia's GitHub stats" width="300"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4hyuXD&theme=one_dark_pro" width="300"/>-->
-    
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=github_dark&langs_count=12" width="300"/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W4hyuXD&theme=github_dark" width="300"/><br />--->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12"/><br />
+ 
 </p>
 <p><b>SOCIAL MEDIA</b></p>
 
