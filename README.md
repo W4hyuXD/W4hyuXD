@@ -6,7 +6,7 @@
    <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 
-## XNXCODE TEAM EAST [2022]()
+## XNXCODE [2021]() TOGETHER
   <p align="center">
 <img src="https://github.com/user-attachments/assets/9b8b780d-0a69-441e-af81-7bf9632c46bb" width="300">
 
@@ -15,8 +15,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
   </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=12" width="350" /><br />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&theme=radical&title_color=8E2DE2&text_color=fff)&theme=monokai&langs_count=12" width="350" /><br />
 </p>
 
 ## 🌐 Connect with Me
