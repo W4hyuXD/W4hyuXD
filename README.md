@@ -16,7 +16,7 @@
 </a>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&theme=radical&title_color=8E2DE2&text_color=fff)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=monokai&langs_count=15" width="350"/><br />
 
 ## 🌐 Connect with Me
 
