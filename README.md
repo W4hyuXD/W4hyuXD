@@ -49,8 +49,6 @@ Feel free to contact me if you want to collaborate on a project, or just chat!
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p> --->
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
@@ -58,5 +56,4 @@ Feel free to contact me if you want to collaborate on a project, or just chat!
 </picture>
 
 ###
-
 
