@@ -6,8 +6,12 @@
    <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/0d4c00c9-eedd-4c00-b036-122d1ea1d162" width="550">
+[](img/)
+
+<!-- <p align="center">
+<img src="https://github.com/user-attachments/assets/0d4c00c9-eedd-4c00-b036-122d1ea1d162" width="550"> 
+--->
+
 <!--<a href="https://github.com/W4hyuXD"><img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="265">
 </a>-->
   
