@@ -45,8 +45,18 @@ Feel free to contact me if you want to collaborate on a project, or just chat!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p> --->
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
