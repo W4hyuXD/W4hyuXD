@@ -34,7 +34,7 @@ data = {
 
 <td width="50%" align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=shadow_red&langs_count=15" width="260"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4hyuXD&layout=compact&theme=shadow_red&langs_count=15" width="300"/>
   
   </td>
 </tr>
