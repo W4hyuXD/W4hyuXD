@@ -10,7 +10,7 @@
 data = {
     "name" : "WahyuDin Ambia",
     "age" : "18",
-    "profession" : ["Python Explorer", "Student", "Bot Developer"],
+    "profession" : ["Student", "Python Explorer", "Bot Developer"],
     "address" :  "Tegal - Central Java - Indonesia"
 }
 ```
