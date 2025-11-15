@@ -1,12 +1,3 @@
-<!--```json
-data = {
-    "name" : "WahyuDin Ambia",
-    "age" : "18",
-    "profession" : ["Student", "Bot-Developer"],
-    "address" :  "Tegal - Central Java - Indonesia"
-}
-``` --->           
-
 <div align="center" style="display: inline-block;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+Github!" alt="Typing SVG" style="display: inline-block;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
@@ -15,8 +6,17 @@ data = {
    <img src="https://komarev.com/ghpvc/?username=W4hyuXD&label=Profile+Views&style=flat-square&color=ff0000"/>
 </p>
 
+```python
+data = {
+    "name" : "WahyuDin Ambia",
+    "age" : "18",
+    "profession" : ["Python Explorer", "Student", "Bot Developer"],
+    "address" :  "Tegal - Central Java - Indonesia"
+}
+```
+
 <p align="center">
-<img src="img/github-header-image.png"> 
+<!--- <img src="img/github-header-image.png"> --->
 
 <!--<a href="https://github.com/W4hyuXD"><img src="https://github-stats-alpha.vercel.app/api?username=W4hyuXD&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="265">
 </a>-->
