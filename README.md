@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 <div align="center" style="display: inline-block;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+Github!" alt="Typing SVG" style="display: inline-block;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
