@@ -9,8 +9,8 @@
 ```python
 data = {
     "name" : "WahyuDin Ambia",
-    "age" : "18",
-    "profession" : ["Student", "Python Explorer", "Bot Developer"],
+    "age" : "19",
+    "profession" : ["Python Explorer", "Bot Developer"],
     "address" :  "Tegal - Central Java - Indonesia"
 }
 ```
